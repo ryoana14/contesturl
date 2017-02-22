@@ -1,3 +1,3 @@
-module Contesturl
-  VERSION = "0.1.0"
+class Contesturl
+  VERSION = "0.1.1"
 end
